@@ -1,0 +1,51 @@
+
+.problem-container {
+  padding: 2vh 0vh;
+  width:100%;
+  display: flex!important;
+}
+
+.statement-container {
+  width: 50%;
+  padding-right: 5%!important;
+}
+
+.section {
+  font-weight: bold;
+}
+
+.goals-container {
+  width: 50%;
+}
+
+.flex{
+  display: flex!important;
+}
+
+
+@media only screen and (max-width: 600px) {
+  .facts {
+    position: relative;
+    right:0px;
+    padding: 4vh 0px;
+  }
+
+  .body-container {
+    width: 100%;
+    padding-left: 0%; 
+    display: block;
+  }
+
+  .footer-custom {
+    width: 85%!important;
+  }
+
+  .pl-6 {
+    padding-left:1em!important;
+  }
+}
+
+
+
+
+

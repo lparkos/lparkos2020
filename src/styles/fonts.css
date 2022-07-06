@@ -1,0 +1,18 @@
+@font-face {
+    font-family: "Work Sans";
+    font-style: Regular;
+    font-weight: 400;
+    src: url("../fonts/WorkSans-Thin.ttf") format("ttf")
+}
+
+@font-face {
+    font-family: "Work Sans";
+    font-style: Bold;
+    font-weight: 700;
+    src: url("../fonts/WorkSans-Bold.ttf") format("ttf")
+}
+
+body {
+    font-family: "Work Sans", sans-serif, Arial!important;
+}
+
